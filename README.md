@@ -40,11 +40,21 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 - [ ] Explain the difference between `Relational Databases` and `SQL`.
 
+Relational Databases are a collection of rows is called a table. Each row represents a single record in the table and is made up of one or more columns.
+
+SQL is a language used to communicate with a RDMS to manipulate data in a relational database.
+
 - [ ] Why do tables need a `primary key`?
+
+To uniquely identify each entry in the database.
 
 - [ ] What is the name given to a table column that references the primary key on another table.
 
+Foreign Key
+
 - [ ] What do we need in order to have a _many to many_ relationship between two tables.
+
+A third table that has a unique entry of a pair of foreign keys
 
 ## Minimum Viable Product
 
